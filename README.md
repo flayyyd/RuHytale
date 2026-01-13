@@ -16,6 +16,6 @@
 
 ## ⚙️ Установка
 1. Распакуйте архив с заменой файлов.  
-2. Скопируйте содержимое в папку игры:  
-"C:\Users\Имя_пользователя\AppData\Roaming\Hytale\install\release\package\game\latest\Client\Data"
-p.s Или перейдите по аналогичное пути, выбранным в начале установки.
+2. Скопируйте папку Shared в папку Data в файлах игры ( C ЗАМЕНОЙ ФАЙЛОВ ):  
+"%appdata%\Hytale\install\release\package\game\latest\Client\Data"
+⚠️ Или перейдите по аналогичному пути, выбранному в начале установки.
