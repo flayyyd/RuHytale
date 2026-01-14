@@ -17,6 +17,7 @@
 ## ⚙️ Установка
 1. Распакуйте архив с заменой файлов.  
 2. Скопируйте папку Shared в папку Data в файлах игры ( C ЗАМЕНОЙ ФАЙЛОВ ):  
-`%appdata%\Hytale\install\release\package\game\latest\Client\Data`
+`%appdata%\Hytale`
 
 ⚠️ Или перейдите по аналогичному пути, выбранному в начале установки.
+(Hytale > Настройки лаунчера > Open directory)
